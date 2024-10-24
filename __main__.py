@@ -1,5 +1,4 @@
-# project/__main__.py
-# project/__main__.py
+
 import os
 import sys
 
