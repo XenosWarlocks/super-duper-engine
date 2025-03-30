@@ -58,6 +58,8 @@ cd super-duper-engine
 python __main__.py
 ```
 
+## Workflow
+![Diagram](assets/diagram.png)
 ## Output
 The script will:
 
